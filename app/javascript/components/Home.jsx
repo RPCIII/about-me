@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import 'stylesheets/application.css';
 
 export default () => (
   <div className="vw-100 vh-100 primary-color d-flex align-items-center justify-content-center">
