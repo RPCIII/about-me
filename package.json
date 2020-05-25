@@ -1,6 +1,7 @@
 {
   "name": "please_hire_me",
   "private": true,
+  "homepage": "https://rpciii.github.io/about-me/"
   "dependencies": {
     "@babel/preset-react": "^7.9.4",
     "@rails/actioncable": "^6.0.0",
